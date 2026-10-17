@@ -1,1 +1,1 @@
-owner controlled protected baseline
+writer changed protected content in place
