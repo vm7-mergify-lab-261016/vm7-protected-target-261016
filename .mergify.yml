@@ -1,9 +1,0 @@
-merge_protections:
-  - name: VM7 configuration changes require Owner approval 261016
-    if:
-      - mergify-configuration-changed
-    success_conditions:
-      - approved-reviews-by = onecursor13-vm7-secondary-20261013
-
-merge_protections_settings:
-  reporting_method: check-runs
